@@ -1,0 +1,45 @@
+
+ /*.header{
+     background-color: crimson;
+     display: flex;
+     justify-content: space-between;
+ }*/
+
+ /*.social{
+     display:flex;
+     justify-content: flex-end;
+ }
+ p,h2{
+     text-align: center;
+ }
+ p,h1{
+     text-align: center;
+ }
+ 
+
+.menu{
+     margin-right: 30px;
+     
+
+ }
+ .menu a{
+     margin-right: 50px
+ }*/
+ li{
+    background-color:rgb(20, 88, 151);
+    display:flex;
+    
+}
+h1{
+    color: goldenrod;
+    margin-left: 500px
+ }
+ a:link{
+    color:greenyellow
+}
+a:visited{
+    color:palevioletred
+}
+ 
+
+
